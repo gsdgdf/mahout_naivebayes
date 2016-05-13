@@ -28,22 +28,40 @@ MAHOUT-JOB: /usr/lib/mahout/mahout-examples-0.8-cdh5.0.0-job.jar
 
 
 2 分类数据如data 文件夹所示：
+
 drwxr-xr-x 2 root root  122880 5月  12 17:40 agriculture
+
 drwxr-xr-x 2 root root  622592 5月  12 17:41 commercialservice
+
 drwxr-xr-x 2 root root 1847296 5月  12 17:41 culture
+
 drwxr-xr-x 2 root root  720896 5月  12 17:41 education
+
 drwxr-xr-x 2 root root  548864 5月  12 17:41 energyresource
+
 drwxr-xr-x 2 root root 3547136 5月  12 17:41 financial
+
 drwxr-xr-x 2 root root  774144 5月  12 17:40 government
+
 drwxr-xr-x 2 root root  552960 5月  12 17:40 it
+
 drwxr-xr-x 2 root root  126976 5月  12 17:41 manufacture
+
 drwxr-xr-x 2 root root  520192 5月  12 17:41 medical
+
 drwxr-xr-x 2 root root    4096 5月  12 17:40 other
+
 drwxr-xr-x 2 root root  827392 5月  12 17:40 realestate
+
 drwxr-xr-x 2 root root  335872 5月  12 17:40 service
+
 drwxr-xr-x 2 root root  774144 5月  12 17:40 tourism
+
 drwxr-xr-x 2 root root  106496 5月  12 17:41 tradewholesale
+
 drwxr-xr-x 2 root root  184320 5月  12 17:40 transportshipping
 
+
 3 执行命令行。
+
 ./mahout_bayes.sh
